@@ -1,5 +1,5 @@
 # Repo of Engineered Prompts for Copilot in a Fabric environment focusing on Power BI and Fabric Notebook usage. 
-![Alt text](Copilot-Engineered-Prompts/Prompt Input.png)
+
 # All prompts are stored in markdown files like the following and are named according to their intended tasks that the prompts will address. 
 
 ---
